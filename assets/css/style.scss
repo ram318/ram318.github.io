@@ -3,7 +3,3 @@
 
 @import "{{ site.theme }}";
 
-header .view,
-header ul > li:last-child {
-  display: none !important;
-}
